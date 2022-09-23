@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Sabio.Models.Domain
+namespace *****.Models.Domain
 {
     public class AdminData
     {
