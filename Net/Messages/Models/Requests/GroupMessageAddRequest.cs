@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Requests.Messages
+namespace Tekton.Models.Requests.Messages
 {
     public class GroupMessageAddRequest
     {
