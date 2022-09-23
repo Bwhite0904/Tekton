@@ -1,16 +1,16 @@
-﻿using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Domain.Messages;
-using Sabio.Models.Requests.Messages;
-using Sabio.Services.Interfaces;
+﻿using Tekton.Data;
+using Tekton.Data.Providers;
+using Tekton.Models;
+using Tekton.Models.Domain;
+using Tekton.Models.Domain.Messages;
+using Tekton.Models.Requests.Messages;
+using Tekton.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Sabio.Services
+namespace Tekton.Services
 {
     public class MessageService : IMessageService
     {
