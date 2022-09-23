@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.SignalR;
-using Sabio.Models.Domain.Messages;
-using Sabio.Models.Requests.Messages;
-using Sabio.Services.Interfaces;
+using Tekton.Models.Domain.Messages;
+using Tekton.Models.Requests.Messages;
+using Tekton.Services.Interfaces;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Sabio.Web.Api.Hubs
+namespace Tekton.Web.Api.Hubs
 {
     public class MessageHub : Hub
     {
