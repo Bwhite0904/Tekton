@@ -4,7 +4,7 @@ import UserProfile from "./UserProfile";
 
 import PropTypes from "prop-types"
 
-import debug from "sabio-debug"
+import debug from "tekton-debug"
 
 const _logger = debug.extend("Messages/UserListItem")
 
