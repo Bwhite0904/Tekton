@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { withFormik, Field, FieldArray, ErrorMessage } from 'formik';
 import PropTypes from 'prop-types';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 import projectSchema from '../../schemas/projectSchema';
 import jobsService from '../../services/jobsService';
 import './projects.css';
