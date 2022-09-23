@@ -1,16 +1,16 @@
-﻿using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models.Domain;
-using Sabio.Models.Jobs;
-using Sabio.Models.Requests;
+﻿using Tekton.Data;
+using Tekton.Data.Providers;
+using Tekton.Models.Domain;
+using Tekton.Models.Jobs;
+using Tekton.Models.Requests;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using Sabio.Services.Interfaces;
-using Sabio.Models.Requests.Users;
+using Tekton.Services.Interfaces;
+using Tekton.Models.Requests.Users;
 
-namespace Sabio.Services
+namespace Tekton.Services
 {
     public class AdminDataService : IAdminDataService
     {
