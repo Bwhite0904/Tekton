@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sabio.Models.Domain.Messages
+namespace Tekton.Models.Domain.Messages
 {
     public class Message
     {
