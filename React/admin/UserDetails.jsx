@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 import { Card, Col, Row } from 'react-bootstrap';
 import licenseService from '../../../services/anotherLicenseService';
 import employeesService from '../../../services/employeeService';
