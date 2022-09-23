@@ -1,8 +1,8 @@
-﻿using Sabio.Models.Domain.Messages;
+﻿using Tekton.Models.Domain.Messages;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Sabio.Services.Interfaces
+namespace Tekton.Services.Interfaces
 {
     public interface IUserTrackerService<THub>
     {
