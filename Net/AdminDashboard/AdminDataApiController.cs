@@ -1,16 +1,16 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using *****.Models.Domain;
-using *****.Models.Requests;
-using *****.Models.Requests.Users;
-using *****.Services;
-using *****.Services.Interfaces;
-using *****.Web.Controllers;
-using *****.Web.Models.Responses;
+using Tekton.Models.Domain;
+using Tekton.Models.Requests;
+using Tekton.Models.Requests.Users;
+using Tekton.Services;
+using Tekton.Services.Interfaces;
+using Tekton.Web.Controllers;
+using Tekton.Web.Models.Responses;
 using System;
 
-namespace *****.Web.Api.Controllers
+namespace Tekton.Web.Api.Controllers
 {
     [Route("api/admindata")]
     [ApiController]
