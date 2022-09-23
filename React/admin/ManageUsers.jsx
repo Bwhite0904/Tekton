@@ -3,7 +3,7 @@ import { Col, Row, Dropdown } from 'react-bootstrap';
 import Pagination from 'rc-pagination';
 import { Link } from 'react-router-dom';
 import toastr from 'toastr';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 import Swal from 'sweetalert2';
 
 import './admindashboard.css';
