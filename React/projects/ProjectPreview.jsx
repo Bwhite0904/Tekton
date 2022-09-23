@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { Accordion, Card, Col, Row } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import ProjectTask from './ProjectTask';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 import toastr from 'toastr';
 import './projects.css';
 import projectService from '../../services/projectService';
