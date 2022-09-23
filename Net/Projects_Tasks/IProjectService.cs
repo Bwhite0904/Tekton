@@ -1,7 +1,7 @@
-﻿using Sabio.Models.Requests;
+﻿using Tekton.Models.Requests;
 using System.Collections.Generic;
 
-namespace Sabio.Services.Interfaces
+namespace Tekton.Services.Interfaces
 {
     public interface IProjectService
     {
