@@ -3,7 +3,7 @@ import Loki from 'react-loki';
 import { Card, Col, Container, Row } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import toastr from 'toastr';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 
 import { FaPlay } from 'react-icons/fa';
 import { BsListCheck } from 'react-icons/bs';
