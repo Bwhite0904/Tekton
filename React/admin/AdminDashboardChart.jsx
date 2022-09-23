@@ -3,7 +3,7 @@ import { Row, Col, Dropdown, Card } from 'react-bootstrap';
 import Chart from 'react-apexcharts';
 import adminDataService from '../../../services/adminDataService';
 import toastr from 'toastr';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 
 const _logger = debug.extend('AdminDashboardChart');
 
