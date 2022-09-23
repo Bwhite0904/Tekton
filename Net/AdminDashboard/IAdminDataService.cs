@@ -1,8 +1,8 @@
-﻿using Sabio.Models.Domain;
-using Sabio.Models.Requests;
-using Sabio.Models.Requests.Users;
+﻿using Tekton.Models.Domain;
+using Tekton.Models.Requests;
+using Tekton.Models.Requests.Users;
 
-namespace Sabio.Services
+namespace Tekton.Services
 {
     public interface IAdminDataService
     {
