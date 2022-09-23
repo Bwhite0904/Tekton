@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Sabio.Models.Domain.Messages
+namespace Tekton.Models.Domain.Messages
 {
     public class MessagingGroup : IModelIdentifier
     {
