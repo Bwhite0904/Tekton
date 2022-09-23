@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain
+namespace Tekton.Models.Domain
 {
     public class Project
     {
