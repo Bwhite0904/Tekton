@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace *****.Models.Requests
+namespace Tekton.Models.Requests
 {
     public class AdminDataRequest
     {
