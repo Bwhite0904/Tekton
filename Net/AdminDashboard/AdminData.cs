@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace *****.Models.Domain
+namespace Tekton.Models.Domain
 {
     public class AdminData
     {
