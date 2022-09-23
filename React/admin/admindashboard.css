@@ -1,0 +1,85 @@
+.admin-chart {
+    background-color: #dbddf9;
+}
+.admin-icons {
+    width: 50px;
+    height: 50px;
+    color: lightgrey;
+}
+.admin-recent-img {
+    height: 250px;
+    width: 250px;
+    object-fit: contain;
+    padding: 5px;
+    max-width: 68vw;
+}
+.admin-recent-orgs {
+    border-bottom: 1px solid lightgrey;
+    border-top: 1px solid lightgrey;
+}
+.dropdown-users-manage:after {
+    border: 0;
+}
+.license-info {
+    border-bottom: 1px solid lightgrey;
+}
+.manage-users-container {
+    border: 1px solid #dee2e6;
+    background-color: white;
+    padding: 15px;
+}
+.manage-users-content {
+    border-bottom: 1px solid #dee2e6;
+    padding: 10px;
+    margin-left: 0px;
+    flex-direction: row;
+    min-height: 80px;
+    width: fit-content;
+}
+.manage-users-details-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 6px;
+    max-width: 70vw;
+    max-height: 40vh;
+}
+.manage-users-content-container:hover {
+    background-color: #d3d7ff;
+}
+.manage-users-header {
+    padding: 10px;
+    flex-direction: row;
+    min-height: 60px;
+    width: fit-content;
+    background-color: white;
+}
+.manage-users-header-container {
+    border-top: 1px solid #dee2e6;
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+}
+
+.manage-users-icons {
+    height: 20px;
+    width: 20px;
+}
+.manage-users-icons:hover {
+    cursor: pointer;
+}
+.manage-users-img {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+}
+.user-details {
+    margin-left: 25px;
+}
+.user-info-card {
+    box-shadow: 0px 5px 5px 1px;
+}
+
+.user-info-card-header {
+    color: white;
+    background-color: #727cf5;
+}
