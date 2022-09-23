@@ -3,7 +3,7 @@ import { Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import toastr from 'toastr';
 
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 
 import Users from './Users';
 import Subcontractors from './Subcontractors';
