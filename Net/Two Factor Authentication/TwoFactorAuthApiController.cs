@@ -2,15 +2,15 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using Sabio.Models.AppSettings;
-using Sabio.Models.Domain;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Tekton.Models.AppSettings;
+using Tekton.Models.Domain;
+using Tekton.Web.Controllers;
+using Tekton.Web.Models.Responses;
 using System;
 using Twilio;
 using Twilio.Rest.Verify.V2.Service;
 
-namespace Sabio.Web.Api.Controllers
+namespace Tekton.Web.Api.Controllers
 {
     [Route("api/twofactorauth")]
     [ApiController]
