@@ -1,9 +1,9 @@
-﻿using Sabio.Models;
-using Sabio.Models.Domain.Messages;
-using Sabio.Models.Requests.Messages;
+﻿using Tekton.Models;
+using Tekton.Models.Domain.Messages;
+using Tekton.Models.Requests.Messages;
 using System.Collections.Generic;
 
-namespace Sabio.Services.Interfaces
+namespace Tekton.Services.Interfaces
 {
     public interface IMessageService
     {
