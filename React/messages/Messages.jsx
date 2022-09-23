@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ReactTooltip from "react-tooltip";
 import { API_HOST_PREFIX } from "../../services/serviceHelpers";
 
-import debug from "sabio-debug";
+import debug from "tekton-debug";
 
 import { HubConnectionBuilder, LogLevel } from '@microsoft/signalr';
 import * as messageService from "../../services/messageService";
