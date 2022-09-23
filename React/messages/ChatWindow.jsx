@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef} from "react";
 import ChatMessage from "./ChatMessage";
 import PropTypes from "prop-types"
 import SendMessageInput from "./SendMessageInput";
-import debug from "sabio-debug";
+import debug from "tekton-debug";
 import { Dropdown } from "react-bootstrap";
 
 const _logger = debug.extend("Messages/ChatWindow");
