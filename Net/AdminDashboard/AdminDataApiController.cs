@@ -1,16 +1,16 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests;
-using Sabio.Models.Requests.Users;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using *****.Models.Domain;
+using *****.Models.Requests;
+using *****.Models.Requests.Users;
+using *****.Services;
+using *****.Services.Interfaces;
+using *****.Web.Controllers;
+using *****.Web.Models.Responses;
 using System;
 
-namespace Sabio.Web.Api.Controllers
+namespace *****.Web.Api.Controllers
 {
     [Route("api/admindata")]
     [ApiController]
