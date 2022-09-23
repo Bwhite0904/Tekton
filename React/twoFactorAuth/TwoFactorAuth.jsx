@@ -5,7 +5,7 @@ import { MdOutlineTextsms } from "react-icons/md";
 import { FiPhoneCall } from "react-icons/fi"
 import "./account.css";
 import { Formik, Form, Field, ErrorMessage } from "formik"
-import debug from "sabio-debug"
+import debug from "tekton-debug"
 import twoFactorAuthSchema from "../../schemas/twoFactorAuthSchema";
 import * as authService from "../../services/twoFactorAuthService";
 import toastr from "toastr"
