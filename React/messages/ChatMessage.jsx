@@ -3,7 +3,7 @@ import ReactTooltip from 'react-tooltip';
 import PropTypes from 'prop-types';
 import { ImFilePdf } from 'react-icons/im';
 import { RiFolderZipLine } from 'react-icons/ri';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 
 const _logger = debug.extend('ChatMessage');
 
