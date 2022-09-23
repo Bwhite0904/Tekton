@@ -1,6 +1,6 @@
-﻿using Sabio.Data.Providers;
-using Sabio.Models.Requests;
-using Sabio.Services.Interfaces;
+﻿using Tekton.Data.Providers;
+using Tekton.Models.Requests;
+using Tekton.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services
+namespace Tekton.Services
 {
     public class ProjectService : IProjectService
     {
