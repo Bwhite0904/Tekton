@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import projectSchema from '../../schemas/projectSchema';
 import locationService from '../../services/locationService';
 import toastr from 'toastr';
-import debug from 'sabio-debug';
+import debug from 'tekton-debug';
 import './projects.css';
 import LocationAutoComplete from '../../components/locations/LocationAutoComplete';
 
